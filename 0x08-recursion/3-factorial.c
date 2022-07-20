@@ -2,7 +2,7 @@
 
 /**
  * factorial - calculate the factorial number
- * @n:the number to calculate for factorial
+ * @n: the number to calculate for factorial
  * Return: integer
  */
 int factorial(int n)
