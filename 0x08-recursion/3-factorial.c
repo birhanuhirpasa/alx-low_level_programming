@@ -3,13 +3,12 @@
 /**
  * factorial - calculate the factorial number
  * @n:the number to calculate for factorial
- * Return: nothing
+ * Return: integer 
  */
-int factorial (int n);
+int factorial(int n)
 {
 	if (n < 0)
 		return (-1);
-
 
 	if (n <= 1)
 		return (1);
