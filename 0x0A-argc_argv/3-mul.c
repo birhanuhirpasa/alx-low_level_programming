@@ -6,7 +6,7 @@
  * main - print the multiplicatin of number
  * @argc: argument count
  * @argv: argument number
- * Return:zero
+ * Return:zer0
  */
 int main(int argc, char *argv[])
 {
@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 	}
 	else
 	{
-		printf("error\n");
+		printf("Error\n");
 		return (1);
 	}
 
