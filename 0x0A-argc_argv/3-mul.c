@@ -5,7 +5,7 @@
 /**
  * main - print the multiplicatin of number
  * @argc: argument count
- * @argv; argument number
+ * @argv: argument number
  * Return:zero
  */
 int main(int argc, char *argv[])
