@@ -1,0 +1,17 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * main - prints all arguments of all givrn
+ * @argc: argument count
+ * @argv: argument vector
+ * Return: always zero
+ */
+int main(int argc, char *argv[])
+{
+	int i;
+
+	for (i = 0; i < argc; i++;)
+		fprint("%s\n", argv[i])
+			return (0);
+}
